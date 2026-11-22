@@ -1,0 +1,10 @@
+# Your CV. Never commit this to a public repo.
+myinfo/resume.pdf
+
+# Run logs contain company names and recruiter addresses.
+logs/
+
+# Local overrides
+.env
+.env.*
+!.env.example
